@@ -1,0 +1,8 @@
+{
+  "name": "miclub",
+  "app_id": "7a964d68",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
